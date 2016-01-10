@@ -1,0 +1,7 @@
+
+
+def writeToDB():
+    #
+
+def readFromDB():
+    #
